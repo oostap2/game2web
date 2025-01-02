@@ -1,2 +1,2 @@
 # game2web
-:0
+https://o8906.itch.io/game2js
